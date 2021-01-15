@@ -1,0 +1,46 @@
+body{
+	margin: 0px auto;
+	padding: 0px;
+	background-color: white;
+}
+
+#container {
+	width: 100%;
+	height: 1000px;
+}
+
+.header{
+	width: 100%;
+	text-align: center;
+	background-color: white;
+}
+
+.header img{
+	width: 50%;
+	text-align: center;
+}
+
+.main{
+	border-width: 20px;
+	border: solid blue 1px;
+	display: flex;
+	width: 100%;
+	height: 500px;
+}
+
+#hotro {
+	border-width: 20px;
+	border-right:solid blue 1px;
+	width: 30%
+}
+
+#chinh{
+	margin-left: 20px;
+	width: 70%;
+}
+
+.end{
+	width: 100%;
+	background-color: white;
+	height: 300px;
+}
